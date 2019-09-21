@@ -1,6 +1,6 @@
 # Chess
 
-Chess con AI integrado.
+Chess con AI integrado. Se recomienda utilizar Python 3.6.8.
 
 1. Crear un venv
 ```
@@ -9,7 +9,7 @@ python -m venv cchess-env
 
 2. Source el env
 ```
-.\cchess-env\Scripts\activate.bat
+  .\cchess-env\Scripts\activate.bat
 ```
 
 3. Clonar el repo
